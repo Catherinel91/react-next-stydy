@@ -1,0 +1,8 @@
+.header {
+    background: red;
+    padding: 40px;
+}
+
+.header a {
+    margin-right: 20px;
+}
